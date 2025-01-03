@@ -29,7 +29,7 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
-- [MidJourney](https://www.midjourney.com/app/)
+- [Canva - Dream Lab](https://https://www.canva.com/dream-lab)
 - [PowerPoint](https://www.microsoft.com/en/microsoft-365/powerpoint)
 
 ## 🧠 Prompts
@@ -39,20 +39,27 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema arquivologia. o nicho principal a ser abordado são as sete funções arquivísticas. o título deve ser criativo, curto e possua uma temática mais cinematográfica (como se fosse um filme) |
+| conteúdo | Faça conteúdo para um ebook cujo tema geral é arquivologia, subtema gestão documental e com ênfase nas sete funções arquivísticas. Utilize exemplos em cada uma das funções.
+
+{REGRAS}
+> Explique de maneira simples
+> Deixe o texto enxuto
+> Traga exemplos rotineiros em cada função
+> Sempre crie um Subtítulo criativo como se fosse nome de filme em cada uma das funções |
 
 
-Midjourney：
+Canva - Dream Lab：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+| título | Uma mulher arquivista com superpoderes diante de uma massa documental |
+| adaptações à imagem | Utilização de ferramentas da própria plataforma
 
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via Canva
 
 ## 📚 Materiais
 
@@ -88,4 +95,4 @@ felipe-exe">LinkedIn</a>
 
 ---
 
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
+⌨️ com 💜 por [Mayara Moreschi](https://github.com/MayMoreschi)
