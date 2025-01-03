@@ -46,13 +46,8 @@ Canva - Dream Lab：
 ## 👨‍💻 Expert
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
     />
-    <p>&nbsp&nbsp&nbspFelipe Aguiar<br>
+    <p>&nbsp&nbsp&nbspMayara Moreschi<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/MayMoreschi">
     GitHub</a>&nbsp;|&nbsp;
