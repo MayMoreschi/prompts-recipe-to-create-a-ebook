@@ -46,7 +46,6 @@ Canva - Dream Lab：
 ## 👨‍💻 Expert
 
 <p>
-    />
     <p>&nbsp&nbsp&nbspMayara Moreschi<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/MayMoreschi">
