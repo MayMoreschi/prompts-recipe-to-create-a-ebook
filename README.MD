@@ -50,8 +50,7 @@ Canva - Dream Lab：
 ## 📚 Materiais
 
 - Imagens utilizadas em `assets`
-- ebook gerado durante as aulas em `output`
-
+- Ebook gerado  `main`
 
 ## 👨‍💻 Expert
 
