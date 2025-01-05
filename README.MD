@@ -1,6 +1,6 @@
 <p align="center">
 <img 
-    src="./assets/capa ebook(1).png"
+    src="./assets/capa_ebook.png"
     width="400"  
 />
 </p>
