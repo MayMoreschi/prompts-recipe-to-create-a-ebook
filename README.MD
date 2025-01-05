@@ -1,6 +1,10 @@
+
+-------
+
+
 <p align="center">
 <img 
-    src="./assets/capa_ebook.png"
+    src="./assets/cover.png"
     width="400"  
 />
 </p>
