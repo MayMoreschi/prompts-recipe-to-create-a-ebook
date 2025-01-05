@@ -1,3 +1,9 @@
+<p align="center">
+<img 
+    src="./https://github.com/MayMoreschi/prompts-recipe-to-create-a-ebook/blob/main/Capa%20Ebook%20(1).png"
+    width="400"  
+/>
+</p>
 
 # Projeto EBOOK Gerado por I.A.s
 
